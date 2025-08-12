@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "GAIYA-MADUWA",
+  "description": "GAIYA-MADUWA Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "logo": "https://raw.githubusercontent.com/gayanmadura/Whatsapp-BOT/refs/heads/main/FB_IMG_1636824908016.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "94789402259"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94779062397"
+      "value": "94789402259"
     },
     
     "PREFIX": {
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -46,7 +46,7 @@
       "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },  
 
     "AUTO_READ_STATUS": {
@@ -64,25 +64,25 @@
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
       "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
+      "value": "false"
     },
     
     "AUTO_STATUS_REACT": {
       "description": "Make it tru status auto react to any emojis",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_BIO": {
       "description": "Make it true if you want bot auto bio",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "AUTO_TYPING": {
@@ -94,7 +94,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
       "CUSTOM_REACT": {
@@ -106,7 +106,7 @@
       "CUSTOM_REACT_EMOJIS": {
       "description": "Custome react emojis.",
       "required": true,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "👑️"
     },
     
     "ANTI_LINK": {
